@@ -1,0 +1,15 @@
+{
+  "records": {
+    "example-1": [
+      {
+        "topic": "example",
+        "partition": 1,
+        "offset": 0,
+        "timestamp": 1600598468528,
+        "timestampType": "CREATE_TIME",
+        "key": "Mg==",
+        "value": "eyJpZCI6ICJiMzEyZGVlMi00MWNiLTQwNDYtOGUyYS1jYmVjMjVmODk4ODciLCJuYW1lIjogIkVQMjAyMTA5MTAifQ=="
+      }
+    ]
+  }
+}
